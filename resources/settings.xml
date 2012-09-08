@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Settings">
+		<setting id="login" type="text" label="Login" visible="true" />
+		<setting id="pass" type="text" option="hidden" label="Password" />
+		<setting id="cachetime" type="number" label="Cache expiry time (minutes)" default="60" />
+	</category>
+</settings>
